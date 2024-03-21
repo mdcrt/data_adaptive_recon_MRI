@@ -1,4 +1,4 @@
-function [ H ] = getHankel( img,ncalib )
+function [ H ] = getHankel( img,ncalib )%ncalib在汉克尔矩阵构建过程中考虑的邻域大小
 %UNTITLED5 Summary of this function goes here
 %   Detailed explanation goes here
 
